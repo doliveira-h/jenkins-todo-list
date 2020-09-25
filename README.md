@@ -1,4 +1,5 @@
 # django-todolist
+This project is a Sample used to test Jenkins pipeline
 
 Simple todolist write in django for general use and pipeline automation..
 
